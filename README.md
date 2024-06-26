@@ -1,2 +1,11 @@
 # Job-Allocation-system
 An online job allocation system using php
+The primary objective of our online household services platform is to address the recurring challenge faced by individuals seeking skilled service providers for their household tasks. In many instances, it becomes inconvenient to find trustworthy professionals who consistently deliver flawless and timely service. Our platform aims to alleviate this frustration by offering a convenient and hassle-free solution for completing domestic chores. We seek to streamline and optimize the process of connecting service seekers with skilled technicians, ensuring efficiency, ease of use, and a delicate touch in all service interactions.
+Additionally, our platform has a secondary objective, which is to empower villagers by bridging the gap between rural and urban areas. We aim to provide daily wage job opportunities to villagers in nearby towns, thereby contributing to rural economic development.
+<img width="1440" alt="Screenshot 2024-06-26 at 10 19 54 PM" src="https://github.com/ReshebkumarCP/Job-Allocation-system/assets/116934163/791cfe8f-ce9a-447c-9038-1b1c24cd75ec">
+<img width="1440" alt="Screenshot 2024-06-26 at 10 19 58 PM" src="https://github.com/ReshebkumarCP/Job-Allocation-system/assets/116934163/125c075c-e746-44ba-9152-60456879309f">
+<img width="1440" alt="Screenshot 2024-06-26 at 10 20 11 PM" src="https://github.com/ReshebkumarCP/Job-Allocation-system/assets/116934163/d20a8c49-2b9f-49d7-9e69-01b68a6a4601">
+<img width="1440" alt="Screenshot 2024-06-26 at 10 20 20 PM" src="https://github.com/ReshebkumarCP/Job-Allocation-system/assets/116934163/4066ec74-0ded-4028-ae07-d6e5717db30f">
+<img width="1440" alt="Screenshot 2024-06-26 at 10 21 32 PM" src="https://github.com/ReshebkumarCP/Job-Allocation-system/assets/116934163/c7c71fcb-1912-4b07-bea4-cd9b142aab7e">
+<img width="1440" alt="Screenshot 2024-06-26 at 10 21 39 PM" src="https://github.com/ReshebkumarCP/Job-Allocation-system/assets/116934163/fcd78daf-1c3b-4c88-85c7-8fb9331bc1b2">
+<img width="1440" alt="Screenshot 2024-06-26 at 10 21 43 PM" src="https://github.com/ReshebkumarCP/Job-Allocation-system/assets/116934163/c68b66cb-5687-4590-b274-d671c739c128">
